@@ -30,6 +30,8 @@
 
 - Validates email format and ensures non-nullable properties are properly populated.
 
+- Used Postman
+
 ### Technologies Used
 - ASP.NET Core 8: Framework for building the API.
 
